@@ -8,6 +8,7 @@ The system addresses the limitations of traditional cash-based payments and manu
  * Frontend: FlutterFlow (Mobile Application).
  * Backend: Supabase (PostgreSQL, Auth, Database Services).
  * Hardware Integration: ESP32 Microcontrollers, NFC (PN532), and Ultrasonic Communication.
+
 ✨ Key Features (My Contribution)
 
 As the Mobile Application Developer, I implemented:
