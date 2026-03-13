@@ -4,7 +4,7 @@ A secure, integrated digital payment and identification system designed to moder
 Overview
 The system addresses the limitations of traditional cash-based payments and manual ID checks at the University of Baghdad. It replaces legacy systems for bus fare collection and cafeteria transactions with a unified digital solution.
 
-🛠️ Tech Stack
+Tech Stack
  * Frontend: FlutterFlow (Mobile Application).
  * Backend: Supabase (PostgreSQL, Auth, Database Services).
  * Hardware Integration: ESP32 Microcontrollers, NFC (PN532), and Ultrasonic Communication.
